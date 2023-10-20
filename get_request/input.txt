@@ -1,0 +1,9 @@
+Training
+
+Core security training at the beginning of SSDLC ensures your project team knows the product’s policies and security requirements. It establishes the guidelines for software development and mitigates the risks of neglecting security issues.
+
+Security training typically consists of:
+
+Code of conduct and basic security concepts training
+Industry-related training covering standards, industry requirements, and laws
+Technology-specific training covering best practices for the selected frameworks
